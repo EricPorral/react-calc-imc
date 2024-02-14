@@ -8,4 +8,4 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br)
 - `npm install`
 
 ### Para rodar
--`npm start` ou `npm run dev`
+- `npm start` ou `npm run dev`
